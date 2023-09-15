@@ -1,3 +1,3 @@
 softversion:1.0.4 
 fileversion:1.0.4.0  
-date:2023/09/14 周四
+date:2023/09/15 周五
